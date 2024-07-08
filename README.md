@@ -6,4 +6,4 @@ Features :\
 1.Real-time messaging with multiple users \
 2.Custom UI with a responsive design  \
 3.User notifications for joining and leaving the chat  \
-4.Message timestamping.\
+4.Message timestamping.
